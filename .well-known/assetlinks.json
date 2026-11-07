@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.uzvld.budsradar",
+      "sha256_cert_fingerprints": ["36:F4:83:33:06:64:43:4A:28:2E:16:17:C0:BA:79:49:F0:99:9B:E8:B6:72:BA:FB:36:87:0F:BA:FD:A6:ED:76"]
+    }
+  }
+]
